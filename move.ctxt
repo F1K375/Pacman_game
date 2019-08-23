@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=arah
+comment0.target=boolean\ Hitwall(java.lang.String)
+comment1.params=cls
+comment1.target=boolean\ Hit(java.lang.Class)
+comment2.params=
+comment2.target=void\ Hitghost()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ gerak()
+comment2.params=arah
+comment2.target=void\ jalan(java.lang.String)
+comment3.params=random
+comment3.target=java.lang.String\ setArah(int)
+numComments=4
